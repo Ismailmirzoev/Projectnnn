@@ -156,6 +156,7 @@
 .gg {
     color: #000000;
     font-size: 30px;
+    font-family: "Oswald", sans-serif;
 }
 .lj {
     color: #777;
@@ -178,7 +179,7 @@
     background-color: rgb(250, 183, 0, 0.8);
     position: absolute;
     height: 134px;
-    top: 1578px;
+    top: 1722px;
     padding-top: 100px;
     width: 420px;
     left: 10px;
@@ -194,7 +195,7 @@
     background-color: rgb(250, 183, 0, 0.8);
     position: absolute;
     height: 134px;
-    top: 1578px;
+    top: 1722px;
     padding-top: 100px;
     width: 411px;
     left: 471px;
@@ -210,7 +211,7 @@
     background-color: rgb(250, 183, 0, 0.8);
     position: absolute;
     height: 134px;
-    top: 1578px;
+    top: 1722px;
     padding-top: 100px;
     width: 410px;
     left: 922px;
@@ -226,7 +227,7 @@
     background-color: rgb(250, 183, 0, 0.8);
     position: absolute;
     height: 134px;
-    top: 1838px;
+    top: 1983px;
     padding-top: 100px;
     left: 10px;
     width: 420px;
@@ -242,7 +243,7 @@
     background-color: rgb(250, 183, 0, 0.8);
     position: absolute;
     height: 134px;
-    top: 1838px;
+    top: 1983px;
     padding-top: 100px;
     width: 410px;
     left: 472px;
@@ -258,7 +259,7 @@
     background-color: rgb(250, 183, 0, 0.8);
     position: absolute;
     height: 134px;
-    top: 1838px;
+    top: 1983px;
     padding-top: 100px;
     width: 408px;
     left: 923px;
@@ -297,6 +298,9 @@
     color: #777;
     font-size: 15px;
     letter-spacing: 1px;
+}
+.pi {
+    font-family: "Oswald", sans-serif;
 }
 .sosmedia {
     background-color: rgb(250, 183, 0, 0.8);
